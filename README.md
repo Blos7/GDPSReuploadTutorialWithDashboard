@@ -36,8 +36,7 @@ On a few phones,it's hard to type 7 digit songs in the "Enter Song ID" textbox o
 
 1. Get a friend to with the ability to type 7 digits to upload an empty level using the song, then downloading it andselecting it in the "Saved Songs" section of the editor.
 
-2. Download GBoard (https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en&gl=US) on the google play store. This app can help you type 7 digit song ID's without a problem.
-
+2. Download GBoard (https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en&gl=US) on the google play store. You must activate floating keyboard mode in order for this to work.
 3. Go to the comments section of a level and type !song [SONG_ID] and then refresh the level. This may not work on all GDPS's as it is dependant on the permissions given to users by the database owner.
 
 # Having problems with the tutorial?
