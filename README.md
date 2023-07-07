@@ -26,9 +26,9 @@ After seeing this screen, you're good to go!
 ![image](https://github.com/Blos7/GDPSReuploadTutorialWithDashboard/assets/87628056/e525abe6-cc13-467d-9053-7d9fa431b644)
 ![image](https://github.com/Blos7/GDPSReuploadTutorialWithDashboard/assets/87628056/0a618903-ef50-4f68-8769-2bdb9cab57fb)
 
-(If you forget the Song ID, you can view it by going to Browse -> Songs)
+(If you forget the Song ID, you can view it by going to Account management -> Manage songs)
 
-![image](https://github.com/Blos7/GDPSReuploadTutorialWithDashboard/assets/87628056/8fd1fddb-2c97-4ca8-b0cc-c278a3e5706d)
+![image](https://github.com/Blos7/GDPSReuploadTutorialWithDashboard/assets/87628056/6b7102fd-86bd-44d3-9f83-8ab434a890c9)
 
 # Having trouble with 7 digit songs on mobile?
 
